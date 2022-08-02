@@ -18,7 +18,7 @@ Reading values from Digital and Analog Sensors .
 
 ....
  Third_EE_Task
-  ├── Sensor_Read.ino         =>  Arduino Code file
+  ├── sensor_read.ino         =>  Arduino Code file
   ├── Sensor_Read_pic.png     => an image of the circuit connection
   ├── Pic1.png                => an image of Block Code of the circuit
   └── ReadMe.adoc             => this file
