@@ -1,0 +1,33 @@
+= Project: {Third_Task_EE}
+
+=== Author: azmm12.
+=== Email: {Abdulazizmmutiri@gmail.com} .
+=== Date: 2/08/2022 .
+=== Revision: version#1 .
+
+== Description of project:
+Reading values from Digital and Analog Sensors .
+
+==  Steps:
+1. Use Tinkercad to simulate the project.
+2. Make connections of parts and add TMP36 Temperature sensor as the analog sensor and pushbutton as the digital sensor .
+3. Write Code for Arduino to Control the process .
+4. Simulate the Code .
+
+=== Folder structure
+
+....
+ Third_EE_Task
+  ├── Sensor_Read.ino         =>  Arduino Code file
+  ├── Sensor_Read_pic.png     => an image of the circuit connection
+  ├── Pic1.png                => an image of Block Code of the circuit
+  └── ReadMe.adoc             => this file
+....
+
+=== Contributing
+To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
