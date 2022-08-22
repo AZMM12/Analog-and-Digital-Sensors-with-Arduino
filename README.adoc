@@ -1,4 +1,4 @@
-= Project: {Third_Task_EE}
+= Project: {Analog-and-Digital-Sensors-with-Arduino}
 
 === Author: azmm12.
 === Email: {Abdulazizmmutiri@gmail.com} .
@@ -23,11 +23,3 @@ Reading values from Digital and Analog Sensors .
   ├── Pic1.png                => an image of Block Code of the circuit
   └── ReadMe.adoc             => this file
 ....
-
-=== Contributing
-To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
-
-=== Help
-This document is written in the _AsciiDoc_ format, a markup language to describe documents.
-If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
-or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
